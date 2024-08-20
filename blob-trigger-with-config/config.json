@@ -1,0 +1,15 @@
+{"data_provider_1": 
+ {"sender_mail": "sender.email@goeshere.com", 
+  "receipent_mail": "receipent.email@goeshere.com", 
+  "subject": "data provider 1 - subject", 
+  "content": "data provider 1 - email content"}, 
+ "data_provider_2": 
+ {"sender_mail": "sender.email@goeshere.com", 
+  "receipent_mail": "receipent.email@goeshere.com", 
+  "subject": "data provider 2 - subject", 
+  "content": "data provider 2 - email content"}, 
+ "data_provider_3": 
+ {"sender_mail": "sender.email@goeshere.com", 
+  "receipent_mail": "receipent.email@goeshere.com", 
+  "subject": "data provider 3 - subject", 
+  "content": "data provider 3 - email content"}}

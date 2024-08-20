@@ -1,0 +1,12 @@
+{
+  "scriptFile": "__init__.py",
+  "bindings": [
+    {
+      "name": "myblob",
+      "type": "blobTrigger",
+      "direction": "in",
+      "path": "samplecontainer1/{name}",
+      "connection": "mcctmailingstorage_STORAGE"
+    }
+  ]
+}
